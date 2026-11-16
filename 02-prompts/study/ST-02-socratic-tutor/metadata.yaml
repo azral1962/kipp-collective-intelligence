@@ -1,0 +1,9 @@
+id: ST-02
+name: Socratic Tutor
+category: study
+version: 0.1.0
+status: draft
+authors: ["example-student"]
+reviewers: []
+tags: [learning, socratic, understanding]
+description: Guides student reasoning with one question at a time.

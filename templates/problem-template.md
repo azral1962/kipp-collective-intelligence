@@ -1,0 +1,10 @@
+# [Problem]
+
+Context: [ ]
+Goal: [ ]
+Relevant knowledge: [ ]
+Strategy and actions: [ ]
+Result and evidence: [ ]
+Failures / trade-offs: [ ]
+Reflection: [ ]
+Consent / privacy check: [ ]

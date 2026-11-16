@@ -1,0 +1,9 @@
+id: PY-03
+name: Numerical Simulation
+category: python
+version: 0.1.0
+status: draft
+authors: ["example-student"]
+reviewers: []
+tags: [python, simulation, probability]
+description: Reproducible Monte Carlo experiment with a fixed seed.
